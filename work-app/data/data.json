@@ -1,0 +1,22 @@
+{
+    "cars" : [
+        {
+            "vin" : "f45g5g",
+            "year" : "2016",
+            "brand" : "audi",
+            "color" : "white"
+        },
+        {
+            "vin" : "f45g5g",
+            "year" : "2016",
+            "brand" : "audi",
+            "color" : "white"
+        },
+        {
+            "vin" : "f45g5g",
+            "year" : "2016",
+            "brand" : "audi",
+            "color" : "white"
+        }
+    ]
+}

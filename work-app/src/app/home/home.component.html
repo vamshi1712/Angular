@@ -1,0 +1,16 @@
+<div class="loggedin" *ngIf="authservice.isLoggedIn()">
+    <h1>Welcome!!!</h1>
+    <logout></logout>
+</div>
+
+<br>
+
+<p-dataTable [value]="cars" [loading]="false">
+        <p-column field="vin" header="Vin"></p-column>
+        <p-column field="year" header="Year"></p-column>
+        <p-column field="brand" header="Brand"></p-column>
+        <p-column field="color" header="Color"></p-column>
+    </p-dataTable>
+
+
+

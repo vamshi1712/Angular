@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    
+    
+}
+
+.error{
+    text-align: left;
+    color: red;
+}
+
+.inline {
+    display: inline-block;
+    
+}
+.pButton{
+    width: 525px;
+    height: 30px;
+    background-color: #2196f3;
+    border-radius: 7px;
+}
+.input-group-addon{
+    background-color: white
+}

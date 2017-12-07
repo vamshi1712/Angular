@@ -1,0 +1,11 @@
+.inline{
+    display: inline-block
+}
+p{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.heading{
+    
+}
