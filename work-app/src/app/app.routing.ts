@@ -3,7 +3,7 @@ import { LoginComponent } from "./auth/login.component";
 import { HomeComponent } from "./home/home.component";
 
 
-
+//routes testing for git push from my side
 const APP_ROUTES: Routes = [
     { path: '', redirectTo: '/login', pathMatch: 'full' },
     { path: 'login', component: LoginComponent , loadChildren: './auth/auth.module#AuthModule' },
